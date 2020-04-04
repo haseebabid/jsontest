@@ -1,0 +1,33 @@
+  {
+        "itemNo": "HS#62211",
+        "description": "RF HS-Elegance N silver - black, 17 Button Quadro",
+        "type": "bed",
+        "buttons": [
+             {
+                "action": "M1Out",
+                "keycode": "000400020000000000000001",
+                "duration": "",
+                "frequency": ""
+            },    	 {
+                "action": "M1In",
+                "keycode": "000400020000000000000002",
+                "duration": "",
+                "frequency": ""
+            }    	        ]
+    }, {
+        "itemNo": "HS#62212",
+        "description": "RF HS-Elegance N silver - black, 17 Button Quadro",
+        "type": "bed",
+        "buttons": [
+             {
+                "action": "M1Out",
+                "keycode": "000400020000000000000001",
+                "duration": "",
+                "frequency": ""
+            },    	 {
+                "action": "M1In",
+                "keycode": "000400020000000000000002",
+                "duration": "",
+                "frequency": ""
+            }    	        ]
+    }
